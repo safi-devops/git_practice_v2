@@ -1,2 +1,4 @@
 This is sample file2
 Comparsion Lecture
+
+Task1: I am going to fixing merge conflict by allowing both lines.
