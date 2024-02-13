@@ -1,3 +1,0 @@
-This is sample file1
-
-Task1: First edit from local host
