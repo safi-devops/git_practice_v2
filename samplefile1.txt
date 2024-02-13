@@ -2,3 +2,5 @@ This is sample file1
 
 Task1: First edit from local host
 Comparsion Lecture
+
+Task2: Merge with main branch
