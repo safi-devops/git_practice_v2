@@ -4,5 +4,9 @@ Task1: First edit from local host
 Comparsion Lecture
 
 Task2: Merge with main branch
+<<<<<<< Updated upstream
 
 Urgent Fix: Git stash check1
+=======
+Task3: Urgent fix - git stash practice
+>>>>>>> Stashed changes
