@@ -5,8 +5,12 @@ Comparsion Lecture
 
 Task2: Merge with main branch
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 Urgent Fix: Git stash check1
 =======
 Task3: Urgent fix - git stash practice
+>>>>>>> Stashed changes
+=======
+This is git stash practice - updating file1
 >>>>>>> Stashed changes
