@@ -3,3 +3,4 @@ Comparsion Lecture
 
 Task1: I am going to fixing merge conflict by allowing both lines.
 This is git stash practice - updating file2
+This is git stash practice2 - updating file2
